@@ -1,0 +1,22 @@
+{
+  "name": "react-wow",
+  "version": "1.0.0",
+  "description": "Getting my React game on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanakyriaz/react-wow.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "nanakyriaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanakyriaz/react-wow/issues"
+  },
+  "homepage": "https://github.com/nanakyriaz/react-wow#readme"
+}
