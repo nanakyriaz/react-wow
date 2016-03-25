@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/nanakyriaz/react-wow/issues"
   },
-  "homepage": "https://github.com/nanakyriaz/react-wow#readme"
+  "homepage": "https://github.com/nanakyriaz/react-wow#readme",
+  "devDependencies": {}
 }
