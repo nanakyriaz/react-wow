@@ -21,6 +21,7 @@
   "homepage": "https://github.com/nanakyriaz/react-wow#readme",
   "devDependencies": {
     "grunt-contrib-concat": "^1.0.0",
+    "grunt-contrib-jshint": "^1.0.0",
     "grunt-contrib-uglify": "^1.0.1"
   }
 }
