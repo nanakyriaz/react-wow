@@ -19,5 +19,7 @@
     "url": "https://github.com/nanakyriaz/react-wow/issues"
   },
   "homepage": "https://github.com/nanakyriaz/react-wow#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "grunt-contrib-uglify": "^1.0.1"
+  }
 }
