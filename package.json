@@ -25,5 +25,8 @@
     "grunt-contrib-jshint": "^1.0.0",
     "grunt-contrib-less": "^1.2.0",
     "grunt-contrib-uglify": "^1.0.1"
+  },
+  "dependencies": {
+    "browserify": "^13.0.0"
   }
 }
