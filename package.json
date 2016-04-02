@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/nanakyriaz/react-wow#readme",
   "devDependencies": {
+    "babelify": "^7.2.0",
+    "grunt-browser-sync": "^2.2.0",
     "grunt-contrib-concat": "^1.0.0",
     "grunt-contrib-cssmin": "^1.0.1",
     "grunt-contrib-jshint": "^1.0.0",
